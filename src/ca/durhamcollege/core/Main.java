@@ -7,6 +7,7 @@ package ca.durhamcollege.core;
 
 //import ca.durhamcollege.utility.RandomVector;
 import ca.durhamcollege.utility.Vector2D;
+import ca.durhamcollege.utility.Vector3D;
 
 import java.util.Scanner;
 import java.util.Vector;
